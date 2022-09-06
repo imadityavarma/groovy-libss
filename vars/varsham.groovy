@@ -1,3 +1,3 @@
-def call (name){
-echo "emergency ${name}"
+def call (heavy floods){
+echo "emergency ${heavy floods}"
 }
