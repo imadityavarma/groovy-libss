@@ -1,3 +1,3 @@
 def call (heavy floods){
-echo "emergency ${need pulihora potlallu}"
+echo "emergency ${heavy floods}"
 }
